@@ -1,2 +1,2 @@
-# CV-papers-with-codes
-Good papers with codes in CV
+# Collection of Papers with Codes in Computer Vision
+
